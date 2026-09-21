@@ -1,4 +1,4 @@
-How to use this Repo..
+**01- Vector Search**
 
 1) Log in to Hugging face and get yout HF_token.
 2) **Download the data**:Paste the token inside download_dataset.py and run it , this downloads the data in parquet to your disk
